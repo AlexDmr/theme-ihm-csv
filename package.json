@@ -1,0 +1,17 @@
+{
+  "name": "csv-demo",
+  "version": "1.0.0",
+  "description": "Utilisation de Typescript pour décrire et parser des structures CSV.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Alexandre Demeure, UGA",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
